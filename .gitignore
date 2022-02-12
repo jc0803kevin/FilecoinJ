@@ -1,1 +1,4 @@
 /.idea/
+/filecoinJ-utils/target/
+/filecoinJ-crypto/target/
+/filecoinJ-core/target/
